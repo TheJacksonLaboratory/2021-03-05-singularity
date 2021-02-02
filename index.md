@@ -9,8 +9,8 @@ latitude: "41.732400"
 longitude: "-72.793634"   
 humandate: "Mar 5, 2021"    
 humantime: "9:00 am - 1:00 pm"    
-startdate: 2021-05-03     
-enddate: 2021-05-03        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2021-03-05     
+enddate: 2021-03-05        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Matt Bradley"] 
 helper: ["Jason Macklin", "Aaron McDivitt", "Richard Yanicky", "Sue McClatchy", "Dave McKenzie"]
 email: ["susan.mcclatchy@jax.org"] 
