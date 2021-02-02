@@ -13,7 +13,7 @@ startdate: 2021-03-05
 enddate: 2021-03-05        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Matt Bradley"] 
 helper: ["Jason Macklin", "Aaron McDivitt", "Richard Yanicky", "Sue McClatchy", "Dave McKenzie"]
-email: ["susan.mcclatchy@jax.org"] 
+email: ["susan.mcclatchy@jax.org", "matt.bradley@jax.org"] 
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 138423344951 # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
